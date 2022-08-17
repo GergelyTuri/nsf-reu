@@ -1,6 +1,6 @@
 ---
 layout: page
-title: links
+title: Links
 ---
 
 add links here:
